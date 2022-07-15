@@ -11,7 +11,7 @@ h1 {
     color: goldenrod;
 }
 
-#start-btn {
+button {
     color: #016f32;
     background: goldenrod;
     border: 0px;
@@ -19,6 +19,8 @@ h1 {
     width: 150px;
     font-weight: bold;
     padding: 4px 0px;
+    margin-bottom: 2px;
+    margin-top: 2px;
 }
 
 #message-el {
